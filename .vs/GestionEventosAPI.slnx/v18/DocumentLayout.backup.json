@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F03C7-E24E-9033-FD8D-C98B5ED75362}|GestionEventosAPI.csproj|d:\\programacion_proyectos\\proyecto_familia\\server-familia-net\\gestioneventosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F03C7-E24E-9033-FD8D-C98B5ED75362}|GestionEventosAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F03C7-E24E-9033-FD8D-C98B5ED75362}|GestionEventosAPI.csproj|d:\\programacion_proyectos\\proyecto_familia\\server-familia-net\\gestioneventosapi\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F03C7-E24E-9033-FD8D-C98B5ED75362}|GestionEventosAPI.csproj|solutionrelative:controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F03C7-E24E-9033-FD8D-C98B5ED75362}|GestionEventosAPI.csproj|d:\\programacion_proyectos\\proyecto_familia\\server-familia-net\\gestioneventosapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A46F03C7-E24E-9033-FD8D-C98B5ED75362}|GestionEventosAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventosController.cs",
+              "ToolTip": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "Controllers\\EventosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T17:02:22.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:45:40.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T02:25:12.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

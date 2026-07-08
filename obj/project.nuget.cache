@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBOvI84Xm7c=",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMACION_PROYECTOS\\PROYECTO_FAMILIA\\server-familia-NET\\GestionEventosAPI\\GestionEventosAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mysqlconnector\\2.6.0\\mysqlconnector.2.6.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\scalar.aspnetcore\\2.16.4\\scalar.aspnetcore.2.16.4.nupkg.sha512"
+  ],
+  "logs": []
+}
